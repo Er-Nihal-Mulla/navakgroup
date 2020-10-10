@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/navakgroup/static/css/main.a7e0adc5.chunk.css",
+    "main.js": "/navakgroup/static/js/main.c1d08977.chunk.js",
+    "main.js.map": "/navakgroup/static/js/main.c1d08977.chunk.js.map",
+    "runtime-main.js": "/navakgroup/static/js/runtime-main.bec24e78.js",
+    "runtime-main.js.map": "/navakgroup/static/js/runtime-main.bec24e78.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/navakgroup/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.2928dc78.chunk.js": "/navakgroup/static/js/2.2928dc78.chunk.js",
+    "static/js/2.2928dc78.chunk.js.map": "/navakgroup/static/js/2.2928dc78.chunk.js.map",
+    "index.html": "/navakgroup/index.html",
+    "precache-manifest.3e675fe82fb197f62ec926cc6a6d6ca9.js": "/navakgroup/precache-manifest.3e675fe82fb197f62ec926cc6a6d6ca9.js",
+    "service-worker.js": "/navakgroup/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/navakgroup/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.a7e0adc5.chunk.css.map": "/navakgroup/static/css/main.a7e0adc5.chunk.css.map",
+    "static/js/2.2928dc78.chunk.js.LICENSE.txt": "/navakgroup/static/js/2.2928dc78.chunk.js.LICENSE.txt",
+    "static/media/android.png": "/navakgroup/static/media/android.83cdd4d4.png",
+    "static/media/app.png": "/navakgroup/static/media/app.555bdf1f.png",
+    "static/media/digital.png": "/navakgroup/static/media/digital.66112155.png",
+    "static/media/hero-img.png": "/navakgroup/static/media/hero-img.92756e7a.png",
+    "static/media/img1.svg": "/navakgroup/static/media/img1.44e1babf.svg",
+    "static/media/marketing.png": "/navakgroup/static/media/marketing.32cd5951.png",
+    "static/media/software.png": "/navakgroup/static/media/software.02571116.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bec24e78.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.2928dc78.chunk.js",
+    "static/css/main.a7e0adc5.chunk.css",
+    "static/js/main.c1d08977.chunk.js"
+  ]
+}
