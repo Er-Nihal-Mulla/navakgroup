@@ -8,10 +8,17 @@ import Foot from './Foot';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import {Switch, Route, Redirect} from "react-router-dom";
+import { Helmet } from 'react-helmet'
+
+const TITLE = 'NAVAK Group'
+
 
 const App = () => {
   return(
       <>
+      <Helmet>
+          <title>{ TITLE }</title>
+        </Helmet>
       <Navbar/>
       <Switch>
       <Route exact path="/" component={Home} />
